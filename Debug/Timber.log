@@ -1,11 +1,10 @@
-﻿  pch.cpp
-  Timber.cpp
-C:\Users\flori\Documents\GitHub\cppTest\Timber\Timber.cpp(70,30): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
-C:\Users\flori\Documents\GitHub\cppTest\Timber\Timber.cpp(73,17): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
-C:\Users\flori\Documents\GitHub\cppTest\Timber\Timber.cpp(87,25): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
-C:\Users\flori\Documents\GitHub\cppTest\Timber\Timber.cpp(90,17): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
-C:\Users\flori\Documents\GitHub\cppTest\Timber\Timber.cpp(104,25): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
-C:\Users\flori\Documents\GitHub\cppTest\Timber\Timber.cpp(107,17): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
-C:\Users\flori\Documents\GitHub\cppTest\Timber\Timber.cpp(121,25): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
-C:\Users\flori\Documents\GitHub\cppTest\Timber\Timber.cpp(124,17): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
-  Timber.vcxproj -> C:\Users\flori\Documents\GitHub\cppTest\Timber\Debug\Timber.exe
+﻿  Timber.cpp
+G:\UserFlo\Documents\GitHub\CppTest\Timber\Timber.cpp(105,31): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+G:\UserFlo\Documents\GitHub\CppTest\Timber\Timber.cpp(108,18): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+G:\UserFlo\Documents\GitHub\CppTest\Timber\Timber.cpp(122,26): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+G:\UserFlo\Documents\GitHub\CppTest\Timber\Timber.cpp(125,18): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+G:\UserFlo\Documents\GitHub\CppTest\Timber\Timber.cpp(139,26): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+G:\UserFlo\Documents\GitHub\CppTest\Timber\Timber.cpp(142,18): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+G:\UserFlo\Documents\GitHub\CppTest\Timber\Timber.cpp(156,26): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+G:\UserFlo\Documents\GitHub\CppTest\Timber\Timber.cpp(159,18): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+  Timber.vcxproj -> G:\UserFlo\Documents\GitHub\CppTest\Timber\Debug\Timber.exe

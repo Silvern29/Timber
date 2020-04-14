@@ -1,2 +1,4 @@
 C:\Users\flori\Documents\GitHub\cppTest\Timber\Debug\Timber.exe
 C:\Users\flori\Documents\GitHub\cppTest\Timber\Debug\Timber.pdb
+G:\UserFlo\Documents\GitHub\CppTest\Timber\Debug\Timber.exe
+G:\UserFlo\Documents\GitHub\CppTest\Timber\Debug\Timber.pdb
